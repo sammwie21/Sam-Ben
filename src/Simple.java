@@ -3,4 +3,8 @@ public class Simple {
     public Simple(){
         mh = "ily";
     }
+
+    public String getmh(){
+        return mh;
+    }
 }
