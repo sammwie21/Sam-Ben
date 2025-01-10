@@ -11,4 +11,8 @@ public class Simple {
     public void confession(){
         System.out.println("Benson Wu is really really really cute");
     }
+
+    public void bensonMethod() {
+        System.out.println("This is the benson method!!!");
+    }
 }
